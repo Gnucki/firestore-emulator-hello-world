@@ -1,0 +1,22 @@
+{
+  "name": "@gnucki/firestore-emulator-hello-world",
+  "version": "1.0.0",
+  "description": "Hello world with firestore local emulator in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Prelot <tprelot@gmail.com> (https://github.com/Gnucki)",
+  "keywords": [
+    "firestore",
+    "emulator",
+    "hello",
+    "world",
+    "firebase"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "@firebase/testing": "^0.7.5",
+    "@google-cloud/firestore": "^1.1.0"
+  }
+}
